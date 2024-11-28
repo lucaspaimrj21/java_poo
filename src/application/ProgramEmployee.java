@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.Employee;
 
-public class ProgramPOO4 {
+public class ProgramEmployee {
 
 	public static void main(String[] args) {
 		

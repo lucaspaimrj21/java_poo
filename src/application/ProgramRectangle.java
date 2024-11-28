@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.Rectangle;
 
-public class ProgramPOO3 {
+public class ProgramRectangle {
 
 	public static void main(String[] args) {
 		
