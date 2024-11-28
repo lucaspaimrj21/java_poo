@@ -33,6 +33,8 @@ public class ProgramPOO5 {
 			System.out.print("MISSING " + student.missingPoints() + " POINTS");
 		}
 		
+		sc.close();
+		
 		
 		
 		
